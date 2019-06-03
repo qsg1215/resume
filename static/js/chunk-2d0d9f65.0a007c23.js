@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d9f65"],{"6a26":function(n,e,a){"use strict";a.r(e);var t=function(){var n=this,e=n.$createElement,a=n._self._c||e;return a("div",[n._v("综合预警页面")])},c=[],r={name:"allWarn",data:function(){return{}}},u=r,l=a("2877"),d=Object(l["a"])(u,t,c,!1,null,"c2c8eda2",null);e["default"]=d.exports}}]);

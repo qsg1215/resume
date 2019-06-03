@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229019"],{dc37:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("监测预警页面")])},r=[],a={name:"monitorWarn",data:function(){return{}}},u=a,o=t("2877"),i=Object(o["a"])(u,c,r,!1,null,"17f7ecc1",null);e["default"]=i.exports}}]);

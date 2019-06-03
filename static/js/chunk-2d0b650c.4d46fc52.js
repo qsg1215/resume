@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b650c"],{"1d47":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("监测布点页面")])},r=[],u={name:"riskResource",data:function(){return{}}},a=u,s=t("2877"),d=Object(s["a"])(a,c,r,!1,null,"23b7dd8e",null);n["default"]=d.exports}}]);

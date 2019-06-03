@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f0006"],{"9b07":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("数据上传页面")])},a=[],c={name:"upload",data:function(){return{}}},r=c,o=t("2877"),d=Object(o["a"])(r,u,a,!1,null,"1fd234ce",null);e["default"]=d.exports}}]);

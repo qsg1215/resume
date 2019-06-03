@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22fcd2"],{ea22:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("工程资料管理")])},c=[],u={name:"info",data:function(){return{}}},r=u,i=t("2877"),o=Object(i["a"])(r,a,c,!1,null,"cafe6d52",null);e["default"]=o.exports}}]);
